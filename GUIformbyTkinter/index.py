@@ -7,7 +7,7 @@ def login():
 
     if username == "" or password == "":
         messagebox.showinfo("", "Blank Not Allowed")
-    elif username == "jack" and password == "papa":
+    elif username == "a" and password == "a":
         messagebox.showinfo("", "Oye Mai To Papa Hu Is Duniya Ka Papa")
     else:
         messagebox.showerror("Wrong Username And Password", "Incorrect Username or Password")

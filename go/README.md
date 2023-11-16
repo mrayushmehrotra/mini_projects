@@ -1,3 +1,3 @@
 ## Info
 
-this is just a simple web server which takes value from params and show it on the page,Just for learning
+this is just a simple projects in go i have created while laerning golang

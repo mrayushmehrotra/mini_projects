@@ -11,3 +11,5 @@ func main() {
 
 	w.SetContent(widget.NewLabel("Hello World!"))
 	w.ShowAndRun()
+
+}

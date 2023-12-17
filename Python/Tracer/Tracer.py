@@ -2,7 +2,7 @@ import phonenumbers
 
 from phonenumbers import timezone, geocoder, carrier
 
-print("Give Your Number With the Country Code, e.g. If User is in India input will be like: +919559088098\n ")
+print("Give Your Number With the Country Code, e.g. If User is in India input will be like: +91xxxxx\n ")
 
 myNum = "+919701818203"
 number = myNum

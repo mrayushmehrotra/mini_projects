@@ -1,6 +1,6 @@
 import pytesseract 
 from PIL import Image 
-image  = Image.open("sample.png")
+image  = Image.open("sample.jpeg")
 
 text = pytesseract.image_to_string(image)
 

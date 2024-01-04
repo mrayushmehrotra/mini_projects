@@ -1,4 +1,4 @@
-volatile unsigned char *video_memory = (unsigned chat *)0xb8000;
+volatile unsigned char *video_memory = (unsigned char *)0xb8000;
 
 void print_hello(const char *str){
   while(*str != '\0'){

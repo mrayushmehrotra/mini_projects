@@ -1,0 +1,1 @@
+rm -rf config && python3 index.py
